@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    width:100%;
+    height:10vh;
+    display:flex;
+    border-bottom:1px solid lightgrey ;
+}
+.main{
+    font-family: system-ui;
+    display: flex;
+    flex-direction: column;
+}
+.mic{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width:30%;
+    height: 10vh;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 10vh;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    height: 10vh;
+    background-color: lightgreen;
+}
+.submit h3{
+    color: white;
+    font-family: system-ui;
+}
+.men{
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    border-right:1px solid lightgrey;
+}
+.sb{
+    width:5%;
+    height:10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sb img{
+    width: 40%;
+    height: 40%;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:10vh;
+    width: 50%;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 50px;
+    margin-left: 10%;
+}
+.log{
+    width: 20%;
+    height: 10vh;
+    font-family: sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.top2{
+    width:100%;
+    height:10vh;
+    display:flex;
+    border-bottom:1px solid lightgrey ;
+}
+.filter{
+    height: 10vh;
+    width: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid lightgrey;
+}
+.filter img{
+    width: 30%;
+    height:3vh;
+}
+.filterby{
+    width: 7%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid lightgrey;
+    font-weight: 200;
+}
+.awards{
+    width: 7%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid lightgrey;
+}
+.categories{
+    width: 9%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid lightgrey;
+}
+.tags{
+    width: 7%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid lightgrey;
+}
+.technologies{
+    width: 11%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid lightgrey;
+}
+.colors{
+    width: 7%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid lightgrey;
+}
+.countries{
+    width: 9%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid lightgrey;
+}
